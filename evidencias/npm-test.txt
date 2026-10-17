@@ -1,0 +1,12 @@
+
+> test-smells-lab@1.0.0 test
+> jest
+
+PASS test/userService.smelly.test.js
+PASS __tests__/userService.clean.test.js
+
+Test Suites: 2 passed, 2 total
+Tests:       1 skipped, 27 passed, 28 total
+Snapshots:   0 total
+Time:        4.299 s
+Ran all test suites.
